@@ -9,7 +9,7 @@ https://plugins.jetbrains.com/plugin/9320-advanced-java-folding
 Codota completes lines of code based on millions of open source Java programs and your context helping you code faster with fewer errors. <br/>
 https://plugins.jetbrains.com/plugin/7638-codota
 - **Grep Console**<br/>
-Grep, tail, filter, highlight... everything you need for a console. Also can highlight the editor - nice for analyzing logs.<br/<br/>
+Grep, tail, filter, highlight... everything you need for a console. Also can highlight the editor - nice for analyzing logs.<br/>
 https://plugins.jetbrains.com/plugin/7125-grep-console
 - **Laconic maven pom**<br/>
 https://plugins.jetbrains.com/plugin/10580-laconic-pom
