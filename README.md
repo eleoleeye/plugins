@@ -27,6 +27,3 @@ https://plugins.jetbrains.com/plugin/7973-sonarlint
 - **SpotBugs**<br/>
 SpotBugs is a defect detection tool for Java that uses static analysis.<br/>
 https://plugins.jetbrains.com/plugin/14014-spotbugs
-- **Shifter**<br/>
-String and code manipulations.<br/>
-https://plugins.jetbrains.com/plugin/6149-shifter
