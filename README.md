@@ -1,7 +1,12 @@
 # IntelliJ IDEA plugins short list
 
 
-
+- **Snyk Vulnerability Scanner**<br/>
+It is able to scan both your third-party dependencies for known security issues, as well as your custom code..<br/>
+https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanner
+- **RoboPOJOGenerator**<br/>
+Generate POJO from JSON.<br/>
+https://plugins.jetbrains.com/plugin/8634-robopojogenerator
 - **Advanced Java Folding**<br/>
 This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity.<br/>
 https://plugins.jetbrains.com/plugin/9320-advanced-java-folding
