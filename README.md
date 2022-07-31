@@ -7,9 +7,6 @@ https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanner
 - **RoboPOJOGenerator**<br/>
 Generate POJO from JSON.<br/>
 https://plugins.jetbrains.com/plugin/8634-robopojogenerator
-- **Advanced Java Folding**<br/>
-This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity.<br/>
-https://plugins.jetbrains.com/plugin/9320-advanced-java-folding
 - **Codota**<br/>
 Codota completes lines of code based on millions of open source Java programs and your context helping you code faster with fewer errors. <br/>
 https://plugins.jetbrains.com/plugin/7638-codota
