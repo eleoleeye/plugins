@@ -32,3 +32,6 @@ https://plugins.jetbrains.com/plugin/7973-sonarlint
 - **SpotBugs**<br/>
 SpotBugs is a defect detection tool for Java that uses static analysis.<br/>
 https://plugins.jetbrains.com/plugin/14014-spotbugs
+- **Lightrun**<br/>
+Lightrun is a suite of tools for adding real-time information to your running applications.<br/>
+https://plugins.jetbrains.com/plugin/16477-lightrun
